@@ -1,0 +1,9 @@
+{
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --files -T",
+  },
+  "liveServer.settings.port": 3000,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "code-runner.runInTerminal": true,
+  "code-runner.clearPreviousOutput": true,
+}
